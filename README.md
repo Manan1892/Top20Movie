@@ -1,4 +1,4 @@
-# Top20Movies
+# Top20Movie
 
 * Install app-release-unaligned.apk in your android device / Import project in Android Studio and make proper setting in build.gradle
 
