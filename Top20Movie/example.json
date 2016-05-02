@@ -1,0 +1,422 @@
+{
+	"status": "OK",
+	"copyright": "Copyright (c) 2016 The New York Times Company. All Rights Reserved.",
+	"has_more": true,
+	"num_results": 20,
+	"results": [{
+		"display_title": "Eva Hesse",
+		"mpaa_rating": "",
+		"critics_pick": 1,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: ‘Eva Hesse’ Offers a Moving Portrait of an Artist’s Brief Life",
+		"summary_short": "Marcie Begleiter’s documentary explores the originality and power of Hesse, who managed to triumph in a male-dominated art world before dying at 34.",
+		"publication_date": "2016-04-26",
+		"opening_date": "2016-04-27",
+		"date_updated": "2016-04-26 22:26:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/27/movies/review-eva-hesse-documentary.html",
+			"suggested_link_text": "Read the New York Times Review of Eva Hesse"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/27/arts/27evahesse1/27evahesse1-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Nina",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: Casting ‘Nina’ Was Controversial, but Is It a Good Movie?",
+		"summary_short": "This biopic of Nina Simone was criticized for its choice of Zoe Saldana in the title role, but its problems are greater than that.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-22",
+		"date_updated": "2016-04-22 07:38:07",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/nina-review-zoe-saldana-nina-simone.html",
+			"suggested_link_text": "Read the New York Times Review of Nina"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22NINA/22NINA-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "The Huntsman: Winter’s War",
+		"mpaa_rating": "PG-13",
+		"critics_pick": 0,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: ‘The Huntsman,’ a Study in Hollywood’s Overstuffed Playbook",
+		"summary_short": "Every resonant theme in this de-imaging of a fairy tale is stripped away, replaced with a ready-made franchise-movie conceit.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-22",
+		"date_updated": "2016-04-22 07:38:24",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/review-the-huntsman-a-study-in-hollywoods-overstuffed-playbook.html",
+			"suggested_link_text": "Read the New York Times Review of The Huntsman: Winter’s War"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22HUNTSMAN1/22HUNTSMAN1-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Elvis & Nixon",
+		"mpaa_rating": "R",
+		"critics_pick": 0,
+		"byline": "MANOHLA DARGIS",
+		"headline": "Review: In ‘Elvis &amp; Nixon,’ Michael Shannon Holds Court as the King",
+		"summary_short": "The director Liza Johnson recreates the meeting between the singer and the president, to which each brought his own agenda.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-22",
+		"date_updated": "2016-04-22 07:38:04",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/elvis-and-nixon-review.html",
+			"suggested_link_text": "Read the New York Times Review of Elvis & Nixon"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22ELVIS/22ELVIS-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "The Meddler",
+		"mpaa_rating": "PG-13",
+		"critics_pick": 1,
+		"byline": "MANOHLA DARGIS",
+		"headline": "Review: In ‘The Meddler,’ a Yakkety Mom Comes of (a Certain) Age",
+		"summary_short": "As a mother and daughter, Susan Sarandon and Rose Byrne portray a mother-daughter relationship that grows up.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-22",
+		"date_updated": "2016-04-22 07:38:16",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/the-meddler-review-susan-sarandon-rose-byrne.html",
+			"suggested_link_text": "Read the New York Times Review of The Meddler"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22MEDDLER/22MEDDLER-mediumThreeByTwo210-v3.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "A Hologram for the King",
+		"mpaa_rating": "R",
+		"critics_pick": 1,
+		"byline": "STEPHEN HOLDEN",
+		"headline": "Review: ‘A Hologram for the King’ Is Elevated by Tom Hanks’s Portrayal of an American Everyman",
+		"summary_short": "Set in Saudi Arabia, this subdued absurdist farce reflects on American decline and runaway technology.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-22",
+		"date_updated": "2016-04-22 07:38:13",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/review-a-hologram-for-the-king-is-elevated-by-tom-hankss-portrayal-of-an-american-everyman.html",
+			"suggested_link_text": "Read the New York Times Review of A Hologram for the King"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22HOLOGRAM/22HOLOGRAM-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Sworn Virgin",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "BEN KENIGSBERG",
+		"headline": "Review: ‘Sworn Virgin’ Concerns a Fading Custom in Albania",
+		"summary_short": "Hana has sworn off marriage, sex and parenthood to live as Mark.",
+		"publication_date": "2016-04-21",
+		"opening_date": null,
+		"date_updated": "2016-04-22 07:40:12",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/sworn-virgin-review.html",
+			"suggested_link_text": "Read the New York Times Review of Sworn Virgin"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22SWORN/22SWORN-mediumThreeByTwo210-v3.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Love Thy Nature",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "NEIL GENZLINGER",
+		"headline": "Review: In ‘Love Thy Nature,’ It Takes a Planet",
+		"summary_short": "Sylvie Rokab’s film, narrated by Liam Neeson, advocates redefining the relationship between humans and the natural world.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-22",
+		"date_updated": "2016-04-22 07:38:08",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/review-in-love-thy-nature-it-takes-a-planet.html",
+			"suggested_link_text": "Read the New York Times Review of Love Thy Nature"
+		},
+		"multimedia": null
+	}, {
+		"display_title": "Compadres",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "NEIL GENZLINGER",
+		"headline": "Review: ‘Compadres,’ a Cross-Border Buddy Film",
+		"summary_short": "A former Mexican police officer tracking down crime syndicate loot forms an alliance with a young American hacker who played a small role in moving it.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-22",
+		"date_updated": "2016-04-22 07:38:15",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/compadres-review.html",
+			"suggested_link_text": "Read the New York Times Review of Compadres"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22COMPADRE/22COMPADRE-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "We the People",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "HELEN T. VERONGOS",
+		"headline": "Review: A Grocery Chain, a Family Feud and a Win for Ordinary People",
+		"summary_short": "This documentary, bursting with real-life superheroes who drive trucks and bag groceries, recounts the Market Basket uprising.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-15",
+		"date_updated": "2016-04-22 07:40:01",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/we-the-people-review.html",
+			"suggested_link_text": "Read the New York Times Review of We the People"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22WETHEPEOPLE/22WETHEPEOPLE-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Men & Chicken",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "GLENN KENNY",
+		"headline": "Review: ‘Men &amp; Chicken,’ a Gory and Quirky Danish Comedy",
+		"summary_short": "Two brothers trek to a remote island to find their biological father, and slapstick violence ensues.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-22",
+		"date_updated": "2016-04-22 07:38:21",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/men-and-chicken-review.html",
+			"suggested_link_text": "Read the New York Times Review of Men & Chicken"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22MENCHICKEN/22MENCHICKEN-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Hockney",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "STEPHEN HOLDEN",
+		"headline": "Review: Basking in an Artist’s Sun in ‘Hockney’ Documentary",
+		"summary_short": "This sunny film, with occasional clouds, looks at David Hockney’s life, his losses and his work’s reflections of his immersion in Southern California.",
+		"publication_date": "2016-04-21",
+		"opening_date": "2016-04-22",
+		"date_updated": "2016-04-22 07:39:53",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/hockney-review.html",
+			"suggested_link_text": "Read the New York Times Review of Hockney"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22HOCKNEY1/22HOCKNEY1-mediumThreeByTwo210-v3.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Tale of Tales",
+		"mpaa_rating": "",
+		"critics_pick": 1,
+		"byline": "JEANNETTE CATSOULIS",
+		"headline": "Review: ‘Tale of Tales’ Adds Grown-Up Twists to the Fairy Tale",
+		"summary_short": "This Matteo Garrone film is a colorful and kinky exploration of what women want. And what men will do to give it to them.",
+		"publication_date": "2016-04-21",
+		"opening_date": null,
+		"date_updated": "2016-04-22 07:40:05",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/reviewtale-of-tales-adds-grown-up-twists-to-the-fairy-tale.html",
+			"suggested_link_text": "Read the New York Times Review of Tale of Tales"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22TALLTALES/22TALLTALES-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Keepers of the Game",
+		"mpaa_rating": "",
+		"critics_pick": 1,
+		"byline": "ANDY WEBSTER",
+		"headline": "Review: ‘Keepers of the Game’ Sings of Young Women and Lacrosse",
+		"summary_short": "Judd Ehrlich’s documentary chronicles a season in the life of the Salmon River Shamrocks, a Native American girl’s lacrosse team.",
+		"publication_date": "2016-04-21",
+		"opening_date": null,
+		"date_updated": "2016-04-22 07:40:10",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/22/movies/review-keepers-of-the-game-review.html",
+			"suggested_link_text": "Read the New York Times Review of Keepers of the Game"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/22/arts/22KEEPERS/22KEEPERS-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Streit’s: Matzo and the American Dream",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "NICOLAS RAPOLD",
+		"headline": "Review: Streit’s Matzo, a New York Tale of a Lost Love",
+		"summary_short": "Michael Levine’s earnest but plodding film chronicles the closing of a Lower East Side factory that had held a vital role in the neighborhood since 1925.",
+		"publication_date": "2016-04-19",
+		"opening_date": null,
+		"date_updated": "2016-04-19 22:46:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/20/movies/streits-matzo-and-the-american-dream-review.html",
+			"suggested_link_text": "Read the New York Times Review of Streit’s: Matzo and the American Dream"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/20/arts/20STREITS1/20STREITS1-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "How to Let Go of the World and Love All the Things Climate Can’t Change",
+		"mpaa_rating": "",
+		"critics_pick": 0,
+		"byline": "KEN JAWOROWSKI",
+		"headline": "Review: ‘How to Let Go of the World’ Ups the Ante on Climate Change",
+		"summary_short": "Josh Fox, the director of “Gasland,” returns with this documentary that takes a tough look at climate change — including projected catastrophes.",
+		"publication_date": "2016-04-19",
+		"opening_date": "2016-04-20",
+		"date_updated": "2016-04-19 22:20:03",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/20/movies/review-how-to-let-go-of-the-world-ups-the-ante-on-climate-change.html",
+			"suggested_link_text": "Read the New York Times Review of How to Let Go of the World and Love All the Things Climate Can’t Change"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/20/arts/20HOWTOLET1/20HOWTOLET1-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Barbershop: The Next Cut",
+		"mpaa_rating": "PG-13",
+		"critics_pick": 1,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: ‘Barbershop: The Next Cut’: Let the Debates Resume",
+		"summary_short": "This movie revives the “Barbershop” franchise, bringing back Ice Cube as the owner of a haircutting establishment on Chicago’s South Side.",
+		"publication_date": "2016-04-14",
+		"opening_date": "2016-04-15",
+		"date_updated": "2016-04-14 19:42:03",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/15/movies/barbershop-the-next-cut-review.html",
+			"suggested_link_text": "Read the New York Times Review of Barbershop: The Next Cut"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/15/arts/15BARBERSHOPJP1/BARBERSHOPJP1-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Sing Street",
+		"mpaa_rating": "PG-13",
+		"critics_pick": 0,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: ‘Sing Street’ Is an ’80s Love Affair, Hair Gel Required",
+		"summary_short": "The film, directed by John Carney, who also directed ‘Once,’ is a tribute to the decade of hair gel and rock ’n’ roll.",
+		"publication_date": "2016-04-14",
+		"opening_date": "2016-04-15",
+		"date_updated": "2016-04-14 23:04:03",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/15/movies/review-sing-street-is-an-80s-love-affair-hair-gel-required.html",
+			"suggested_link_text": "Read the New York Times Review of Sing Street"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/15/arts/15SINGSTREET/15SINGSTREET-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "The First Monday in May",
+		"mpaa_rating": "PG-13",
+		"critics_pick": 0,
+		"byline": "GLENN KENNY",
+		"headline": "Review: ‘The First Monday in May’ Goes Behind the Scenes at the Met",
+		"summary_short": "This documentary looks at the creation of the 2015 exhibition “China: Through The Looking Glass” and the benefit that coincides with its opening.",
+		"publication_date": "2016-04-14",
+		"opening_date": "2016-04-15",
+		"date_updated": "2016-04-14 21:10:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/15/movies/review-the-first-monday-in-may-goes-behind-the-scenes-at-the-met.html",
+			"suggested_link_text": "Read the New York Times Review of The First Monday in May"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/15/arts/firstmonday1/firstmonday1-mediumThreeByTwo210.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}, {
+		"display_title": "Green Room",
+		"mpaa_rating": "R",
+		"critics_pick": 0,
+		"byline": "A. O. SCOTT",
+		"headline": "Review: In ‘Green Room,’ a Scruffy Comic Flavor Turns Tense",
+		"summary_short": "A punk band booked at a roadhouse whose patrons are skinheads unleashes a cover of the Dead Kennedys’ anthem insulting “Nazi punks.” Trouble ensues.",
+		"publication_date": "2016-04-14",
+		"opening_date": "2016-04-29",
+		"date_updated": "2016-04-14 21:34:02",
+		"link": {
+			"type": "article",
+			"url": "http://www.nytimes.com/2016/04/15/movies/green-room-review.html",
+			"suggested_link_text": "Read the New York Times Review of Green Room"
+		},
+		"multimedia": {
+			"type": "mediumThreeByTwo210",
+			"src": "http://static01.nyt.com/images/2016/04/15/arts/15GREENROOM1/15GREENROOM1-mediumThreeByTwo210-v2.jpg",
+			"width": 210,
+			"height": 140
+		}
+	}]
+}
