@@ -1,0 +1,214 @@
+{
+    "questions": [
+       {
+                "id": "0",
+                "question": "There are 6 tables with 2 kids at each table. How many kids are there?",
+                "option1": "12",
+                "option2": "24",
+                "option3": "36",
+                "option4": "46",  
+
+                "Correctans":"12"
+        },    	
+       {
+                "id": "1",
+                "question": "Simplify the expression below using the rules of the Order of Operations. 5+3(2+8)",
+                "option1": "35",
+                "option2": "80",
+                "option3": "18",
+                "option4": "24",  
+
+                 "Correctans":"35"
+        },
+        {
+                "id": "2",
+                "question": "What is the prime factorization of the integer 210?",
+                "option1": "5x6x7",
+                "option2": "2x3x5x7",
+                "option3": "10x21",
+                "option4": "7x3",  
+
+                 "Correctans":"2x3x5x7"
+        },
+        {
+                "id": "3",
+                "question": "Which of the following fractions is equal to: 0.035",
+                "option1": "35/10",
+                "option2": "35/100",
+                "option3": "35/1000",
+                "option4": "35/10000",  
+
+                "Correctans":"35/1000"
+        },
+        {
+                "id": "4",
+                "question": "What is the opposite of the integer -2?",
+                "option1": "2",
+                "option2": "-2",
+                "option3": "1/2",
+                "option4": "-1/2",  
+
+                "Correctans":"2"
+        },
+        {
+                "id": "5",
+                "question": "33+49",
+                "option1": "82",
+                "option2": "72",
+                "option3": "92",
+                "option4": "77",  
+
+                "Correctans":"82"
+        },
+        {
+                "id": "6",
+                "question": "Y+18 = 23, then value of Y?",
+                "option1": "5",
+                "option2": "41",
+                "option3": "-5",
+                "option4": "-41",  
+
+                "Correctans":"5"
+        },
+        {
+                "id": "7",
+                "question": "(11- 1) / 2 =",
+                "option1": "10 1/2",
+                "option2": "5",
+                "option3": "20",
+                "option4": "6",  
+
+                "Correctans":"5"
+        },
+        {
+                "id": "8",
+                "question": "8 / 2 x 4=",
+                "option1": "14",
+                "option2": "1",
+                "option3": "16",
+                "option4": "10",  
+
+                "Correctans":"16"
+        },
+        {
+                "id": "9",
+                "question": "6 x (7 / 7)=",
+                "option1": "20",
+                "option2": "42",
+                "option3": "6",
+                "option4": "7",  
+
+                "Correctans":"6"
+        },    	    	
+        {
+                "id": "10",
+                "question": "Identify correct parentheses place 7 / 6 + 1 =1",
+                "option1": "7 / (6+1) = 1",
+                "option2": "(7+6 ) / 1 = 1",
+                "option3": "(7/6) + 1 = 1",
+                "option4": "Not Possible",  
+
+                "Correctans":"7 / (6+1) = 1"
+        },
+        {
+                "id": "11",
+                "question": "(-15)+(-8)",
+                "option1": "7",
+                "option2": "-7",
+                "option3": "23",
+                "option4": "-23",  
+
+                "Correctans":"-23"
+        }, 
+        {
+                "id": "12",
+                "question": "A class of 35 were divided into 5 equal groups. How many students are in each group?",
+                "option1": "5",
+                "option2": "6",
+                "option3": "7",
+                "option4": "8",  
+
+                "Correctans":"7"
+        }, 
+        {
+                "id": "13",
+                "question": "Mary and Samantha have 72 pieces of candy altogether. If they split them in half, how many would each girl have?",
+                "option1": "30",
+                "option2": "35",
+                "option3": "36",
+                "option4": "37",  
+
+                "Correctans":"36"
+        },    	
+        {
+                "id": "14",
+                "question": "There are 6 tables with 6 kids at each table. How many kids are there?",
+                "option1": "12",
+                "option2": "24",
+                "option3": "36",
+                "option4": "46",  
+
+                "Correctans":"36"
+        },    	
+        {
+                "id": "15",
+                "question": "A group of people were playing bingo. Each bingo card has 5 rows and 5 columns. How many squares does each card have?",
+                "option1": "15",
+                "option2": "25",
+                "option3": "30",
+                "option4": "35",  
+
+                "Correctans":"25"
+        },    
+        {
+                "id": "16",
+                "question": "There are 16 cookies. If there are 4 kids and each kid gets an equal amount, how many cookies can each kid have?",
+                "option1": "4",
+                "option2": "2",
+                "option3": "8",
+                "option4": "16",  
+
+                "Correctans":"4"
+        },    
+        {
+                "id": "17",
+                "question": "There are 14 dogs at the park. One group is small dogs and one group is large dogs. How many dogs are in each group?",
+                "option1": "2",
+                "option2": "7",
+                "option3": "8",
+                "option4": "9",  
+
+                "Correctans":"7"
+        },    	
+        {
+                "id": "18",
+                "question": "Katie has 6 tops and 7 skirts. How many different outfits can she make?",
+                "option1": "6",
+                "option2": "7",
+                "option3": "13",
+                "option4": "42",  
+
+                "Correctans":"42"
+        },    	
+        {
+                "id": "19",
+                "question": "John has 7 toy cars. Jake has three times as many toy cars. How many does Jake have?",
+                "option1": "10",
+                "option2": "14",
+                "option3": "21",
+                "option4": "24",  
+
+                "Correctans":"21"
+        },    	
+        {
+                "id": "20",
+                "question": "A class has 8 kids with blue eyes, 6 kids with brown eyes, and 4 kids with hazel eyes. How many eyes are there altogeher?",
+                "option1": "18",
+                "option2": "36",
+                "option3": "24",
+                "option4": "42",  
+
+                "Correctans":"36"
+        }]
+}   	
+        

@@ -1,0 +1,104 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.android.androidproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <application
+        android:icon="@drawable/launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.android.androidproject.Splash"
+            android:label="@string/MathAssessment" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.androidproject.MainActivity"
+            android:label="@string/MathAssessment" >
+            <intent-filter>
+                <action android:name="com.MathAssessment.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.androidproject.AdditionSkill" >
+            <intent-filter>
+                <action android:name="com.MathAssessment.ADDITIONSKILL" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.androidproject.SubtractionSkill"
+            android:label="@string/subskill" >
+            <intent-filter>
+                <action android:name="com.MathAssessment.SUBTRACTIONSKILL" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.androidproject.MultiplicationSkill"
+            android:label="@string/mulskill" >
+            <intent-filter>
+                <action android:name="com.MathAssessment.MULTIPLICATIONSKILL" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.androidproject.DivisionSkill"
+            android:label="@string/divskill" >
+            <intent-filter>
+                <action android:name="com.MathAssessment.DIVISIONSKILL" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.androidproject.Levels"
+            android:label="@string/Levels"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.MathAssessment.LEVELS" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.androidproject.Questions"
+            android:label="@string/questions" >
+            <intent-filter>
+                <action android:name="com.MathAssessment.QUESTIONS" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.androidproject.AboutUs"
+            android:label="@string/aboutUs"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.MathAssessment.ABOUTUS" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.android.androidproject.Score"
+            android:label="@string/reportCard" >
+           
+        </activity>
+        <activity
+            android:name="com.android.androidproject.LessGraeterThan"
+            android:label="@string/reportCard" >
+           
+        </activity>
+        <activity
+            android:name="com.android.androidproject.HomeActivity"
+            android:label="@string/reportCard" >
+           
+        </activity>
+        <activity
+            android:name="com.android.androidproject.SignUPActivity"
+            android:label="@string/reportCard" >
+           
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="#0E2424" >
+    
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#0E6060"
+            android:textColor="#66FFFF"
+            android:text="Report Card"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:textColor="#FFFFFF"
+        android:text="Thank you for Playing!" />
+    
+    <TextView
+        android:id="@+id/s"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textColor="#FFFFFF"
+        android:textSize="20dp"
+        android:text="Your Score is : " />
+
+    
+
+</LinearLayout>

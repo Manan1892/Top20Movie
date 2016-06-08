@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0E2424"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#0E6060"
+            android:textColor="#66FFFF"
+            android:text="Learn Multiplication"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:textColor="#FFFFFF"
+            android:layout_height="wrap_content"
+            android:text="Multiplication Skill 23 * 42=____?"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:textColor="#FFFFFF"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="Using Grid Method"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:textColor="#FFFFFF"
+            android:layout_height="wrap_content"
+            android:paddingTop="20dp"
+            android:text="20 * 40 = 800" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:textColor="#FFFFFF"
+            android:layout_height="wrap_content"
+            android:text="3   * 40 = 120" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:textColor="#FFFFFF"
+            android:layout_height="wrap_content"
+            android:text="20 * 2  = 40" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:textColor="#FFFFFF"
+            android:layout_height="wrap_content"
+            android:text="3  *  2 = 6" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:textColor="#FFFFFF"
+            android:layout_height="wrap_content"
+            android:text="Total   =  966" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bHome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="btnClick"
+            android:text="Home" />
+
+        <Button
+            android:id="@+id/bNextPage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="btnClick"
+            android:text="Next" />
+    </LinearLayout>
+
+</LinearLayout>

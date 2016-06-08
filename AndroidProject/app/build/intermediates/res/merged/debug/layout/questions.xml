@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0E2424"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#0E6060"
+            android:textColor="#66FFFF"
+            android:textStyle="bold"
+            android:text="Questions"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <Chronometer
+            android:id="@+id/mChronomete"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Chronometer"
+            android:gravity="right"
+            android:paddingRight="20dp"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/tvQues1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="2 + 3 = _____ ?"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#FFFFFF" />
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <RadioButton
+                android:id="@+id/op1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="5"
+                android:textColor="#FFFFFF" />
+
+            <RadioButton
+                android:id="@+id/op2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="7"
+                android:textColor="#FFFFFF" />
+
+            <RadioButton
+                android:id="@+id/op3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4"
+                android:textColor="#FFFFFF" />
+            <RadioButton
+                android:id="@+id/op4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4"
+                android:textColor="#FFFFFF" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/bnext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="btnClick"
+            android:text="Next" />
+
+        <Button
+            android:id="@+id/bSkip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="btnClick"
+            android:text="Skip" />
+    </LinearLayout>
+
+</LinearLayout>

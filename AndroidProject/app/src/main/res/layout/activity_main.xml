@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0E2424"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:src="@drawable/header" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+
+        <RadioGroup
+            android:id="@+id/radioGroup1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <RadioButton
+                android:id="@+id/rbLearnTech"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="Learn Teachniques"
+                android:textColor="#FFFFFF"
+                android:textSize="25dp" />
+
+            <RadioButton
+                android:id="@+id/rbSkillTesting"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Skill Testing"
+                android:textColor="#FFFFFF"
+                android:textSize="25dp" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/bStartNow"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:onClick="btnStartClick"
+            android:text="Start Now" />
+    </LinearLayout>
+
+</LinearLayout>

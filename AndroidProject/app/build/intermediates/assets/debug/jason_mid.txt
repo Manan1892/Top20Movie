@@ -1,0 +1,214 @@
+{
+    "questions": [
+	{
+                "id": "1",
+                "question": "A square rug has an area of 9 square feet. What is the perimeter of the rug? Perimeter = 2 x width + 2 x length",
+                "option1": "3 feet",
+                "option2": "6 feet",
+                "option3": "9 feet",
+                "option4": "12 feet",  
+
+                "Correctans":"12"
+        },    	
+        {
+                "id": "2",
+                "question": "Which shows all the factors of 32?",
+                "option1": " 1, 2, 4, 8, 16, 32",
+                "option2": " 1, 2, 3, 16, 32",
+                "option3": "1, 2, 16, 32",
+                "option4": "1, 2, 4, 8, 12, 32",  
+
+                "Correctans":" 1, 2, 4, 8, 16, 32"
+        }, 
+        {
+                "id": "3",
+                "question": "This angle measures 180 degrees.",
+                "option1": "straight",
+                "option2": "acute",
+                "option3": "obtuse",
+                "option4": " right",  
+
+                "Correctans":"straight"
+        }, 
+        {
+                "id": "4",
+                "question": "To cut one shelf 24 centimetres long and two shelves 65 centimetres long from a single board, how long must the board be?",
+                "option1": "103 cm long",
+                "option2": "130 cm long",
+                "option3": "154 cm long",
+                "option4": "89 cm long",  
+
+                "Correctans":"154 cm long"
+        },  
+        {
+                "id": "5",
+                "question": "A family can save $75 each month to buy a new TV which costs $675. How many months will it take before they can buy the TV?",
+                "option1": "8 months",
+                "option2": "11 months",
+                "option3": "5 months",
+                "option4": "9 months",  
+
+                "Correctans":"9 months"
+        }, 
+        {
+                "id": "6",
+                "question": "15 samosas are needed for a party.; Each samosa will contain 2 ½ ounces of ground chicken. How much ground chicken will be needed?",
+                "option1": "17 ½ ounces",
+                "option2": "31 ½ ounces",
+                "option3": "37 ½ ounces",
+                "option4": "41 ½ ounces",  
+
+                "Correctans":"37 ½ ounces"
+        },    	   	   
+        {
+                "id": "7",
+                "question": "The ages of students in a math class are: 21, 23, 19, and 21. What is the average age of these students?",
+                "option1": "Average age is 19",
+                "option2": "Average age is 21",
+                "option3": "Average age is 23",
+                "option4": "Average age is 25",  
+
+                "Correctans":"Average age is 21"
+        },    	   	   
+        {
+                "id": "8",
+                "question": "34.6 x 100 =",
+                "option1": "346.0",
+                "option2": "34600.0",
+                "option3": " 3460.0",
+                "option4": "346000.0",  
+
+                "Correctans":" 3460.0"
+        },    	   	   
+        {
+                "id": "9",
+                "question": "2/3(7-4) + 8/9(10-1)",
+                "option1": "5",
+                "option2": "7",
+                "option3": "10",
+                "option4": "9",  
+
+                "Correctans":"10"
+        },    	   	   
+        {
+                "id": "10",
+                "question": "34+15-(-2-8)+4/2",
+                "option1": "61",
+                "option2": "50",
+                "option3": "51",
+                "option4": "41",  
+
+                "Correctans":"61"
+        },    	   	   
+        {
+                "id": "11",
+                "question": "3/2 + 4/8 - 3/4",
+                "option1": "3/5",
+                "option2": "4/5",
+                "option3": "3/2",
+                "option4": "5/4",  
+
+                "Correctans":"5/4"
+        },    	   	   
+        {
+                "id": "12",
+                "question": "2(8-5)+[1/2+(-12+10)]",
+                "option1": "4",
+                "option2": "2/3",
+                "option3": "5/4",
+                "option4": "9/2",  
+
+                "Correctans":"9/2"
+        },    	   	   
+        {
+                "id": "13",
+                "question": "6 x + 15 = 33,Solve for x.",
+                "option1": "8",
+                "option2": "3",
+                "option3": "-3",
+                "option4": "-8",  
+
+                "Correctans":"3"
+        },    	   	   
+        {
+                "id": "14",
+                "question": "3 y – 15 = –21, Solve for y.",
+                "option1": "-12",
+                "option2": "2",
+                "option3": "-2",
+                "option4": "12",  
+
+                "Correctans":"-2"
+        },    	   	   
+        {
+                "id": "15",
+                "question": "For which equation is the solution x = –3?",
+                "option1": "–2 x + 7 = 13",
+                "option2": "3 x – 2 = –7",
+                "option3": "5 – 4 x = –7",
+                "option4": "None of above.",  
+
+                "Correctans":"–2 x + 7 = 13"
+        },    	   	   
+        {
+                "id": "16",
+                "question": "Which of the following equations has a negative value for its variable?",
+                "option1": "–3 x + 5 = 4",
+                "option2": " 4 a – 12 = –8",
+                "option3": " 5 y – 6 = –7",
+                "option4": "None of avove.",  
+
+                "Correctans":" 5 y – 6 = –7"
+        },    	   	   
+        {
+                "id": "17",
+                "question": "3 y + 9 y – 24 = 6 y – 4 – 8 ",
+                "option1": "2",
+                "option2": "6",
+                "option3": "-2",
+                "option4": "-6",  
+
+                "Correctans":"2"
+        },    	   	   
+        {
+                "id": "18",
+                "question": "What is the largest number you can make using these digits: 5,1,9,2 ?",
+                "option1": "5192",
+                "option2": "1259",
+                "option3": "9521",
+                "option4": "9152",  
+
+                "Correctans":"9521"
+        },    	   	   
+        {
+                "id": "19",
+                "question": "What number is half way between 29 & 37 ?",
+                "option1": "33",
+                "option2": "34",
+                "option3": "35",
+                "option4": "36",  
+
+                "Correctans":"33"
+        },  
+        {
+                "id": "20",
+                "question": "Put these in order, starting with the smallest: 2.12, 2.3, 2.2 ,3.21",
+                "option1": "3.21, 2.3, 2.22, 2.12",
+                "option2": "2.3, 2.12, 2.22, 3.21",
+                "option3": "2.22, 2.3, 3.21, 2.12",
+                "option4": "2.12, 2.22, 2.3, 3.21",  
+ 
+                "Correctans":"2.12, 2.22, 2.3, 3.21"
+        },    	   	      
+        {
+                "id": "21",
+                "question": "Which of these is a solution of 3x + 8 = 23",
+                "option1": "x=2",
+                "option2": "x=3",
+                "option3": "x=4",
+                "option4": "x=5",  
+
+                "Correctans":"x=5"
+        }]
+}		
+

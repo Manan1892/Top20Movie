@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MyColor">#000055</color>
+    <string name="Copyright">Copyright Reserved</string>
+    <string name="Levels">Select Level...</string>
+    <string name="MathAssessment">MathAssessment</string>
+    <string name="aboutUs">About Us</string>
+    <string name="addskill">Addition Skill</string>
+    <string name="app_name">MathAssessment</string>
+    <string name="divskill">Division Skill</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="mulskill">Multiplication Skill</string>
+    <string name="questions">Questions</string>
+    <string name="reportCard">Report Card</string>
+    <string name="subskill">Subtractuion Skill</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

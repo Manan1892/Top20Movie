@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0E2424"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <RadioButton
+            android:id="@+id/rbEasy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Easy"
+            android:checked="true"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/rbMedium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Medium"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+
+        <RadioButton
+            android:id="@+id/rbHard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hard"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/bStartTest"
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:onClick="btnStratTest"
+        android:text="Start Test"
+        android:textColor="#000000" />
+
+</LinearLayout>
